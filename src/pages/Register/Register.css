@@ -1,0 +1,61 @@
+.pagina-cadastro {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.formulario-cadastro {
+  display: flex;
+  gap: 80px;
+  
+  width: 50%;
+  margin-top: 15px;
+
+  border-top: 20px solid rgb(93, 105, 190);
+  border-left: 1px solid rgb(93, 105, 190);
+  border-right: 1px solid rgb(93, 105, 190);
+  border-bottom: 1px solid rgb(93, 105, 190);
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(255, 255, 255);;
+}
+
+.campos-cadastro {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+
+  width: 30%;
+  padding-bottom: 50px;
+}
+
+.header-cadastro {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: -20px;
+  color: rgb(59, 58, 58);
+}
+
+.campo-cadastro {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.input-cadastro {
+  height: 20px;
+}
+
+.botao-cadastro  {
+  padding: 10px;
+  margin-top: 10px;
+  background-color: rgb(73, 71, 194);
+  align-self: center;
+  width: 100%;
+  color: white;
+  cursor: pointer;
+}
+
+.img-cadastro {
+  width: 50%;
+}
