@@ -68,7 +68,7 @@ function Places() {
       <ul className='cards'>
         {pontosUsuario.map((pontoUsuario, index) => (
           <PontoColeta 
-          key={pontoUsuario.id} nome={pontoUsuario.nome} 
+          key={index} id={pontoUsuario.id} nome={pontoUsuario.nome} 
           logradouro={pontoUsuario.endereco.logradouro}
           uf={pontoUsuario.endereco.uf}
           residuos={pontoUsuario.residuos} deletePonto={() => handleClick(pontoUsuario.id)}></PontoColeta>

@@ -61,8 +61,8 @@ function Dashboard() {
 
       <h2 className='subtitulo-mapa'>Distribuições de pontos de coletas por estado</h2>
       <ul className='cards-dashboard'>
-        {quantidadePorEstado.map((estado) => (
-          <CardQuantidade estado={estado.nome} quantidade={estado.quantidade}></CardQuantidade>
+        {quantidadePorEstado.map((estado, index) => (
+          <CardQuantidade key={index} estado={estado.nome} quantidade={estado.quantidade}></CardQuantidade>
         ))}
       </ul>
     </div>
