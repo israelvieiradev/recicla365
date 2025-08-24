@@ -45,7 +45,7 @@ informar cep que ao ser informado buscará informações sobre esse cep e
 caso seja encontrado prencherá alguns campos do endereço, se não, 
 o usuário deve informar todos os campos disponíveis
 
-Aqui o usuário pode adicionar campos pontos de coleta quiser
+Aqui o usuário pode adicionar quantos pontos de coleta quiser
 
 4. Menu
 É disponibilizado um menu para navegação entre as páginas de DashBoard e Locais cadastrados 
