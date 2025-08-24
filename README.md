@@ -57,4 +57,5 @@ cadastrados e também cards que mostram a quantidade de pontos por estado
 
 6. Locais
 Uma tela que mostra cards com informações mais detalhadas sobre cada ponto de coleta, opção de
-deletar o ponto dos registros e um botão de cadastro para redirecionar para tela de cadastro de ponto de coleta
+deletar o ponto dos registros e um botão de cadastro de novo ponto de coleta 
+que redirecionar para tela de cadastro de ponto de coleta
