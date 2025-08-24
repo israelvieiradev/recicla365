@@ -1,7 +1,6 @@
 # React + Vite
 
-Link de acesso ao site hospedado na netlify
-
+Link de acesso ao site hospedado na netlify:
 https://reciclabrasil.netlify.app
 
 Nome do Software: Recicla365
