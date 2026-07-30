@@ -21,9 +21,7 @@ APIs:
 
 https://github.com/FuturoDEV-Joinville-V1/api_coletas.git
 
-Fornecida pelo Professor Douglas Cavalcante, pode ser usada para
-obter informações através da API: https://viacep.com.br, que obtém informações baseadas
-no CEP, cadastrar usuários, cadastrar pontos de coleta, entre outras funções.
+https://viacep.com.br, obtém informações baseadas no CEP
 
 Execução:
 
