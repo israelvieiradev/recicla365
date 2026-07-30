@@ -19,7 +19,7 @@ HTML, CSS, JavaScript, React, React Router, React Leaflet
 
 APIs:
 
-https://github.com/FuturoDEV-Joinville-V1/api_coletas.git
+https://github.com/FuturoDEV-Joinville-V1/api_coletas.git API disponibiliza pelo professor
 
 https://viacep.com.br, obtém informações baseadas no CEP
 
