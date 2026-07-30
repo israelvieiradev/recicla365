@@ -13,8 +13,6 @@ function Places() {
   const usuarioId = usuarioLogado.usuario.id;
   const [pontosUsuario, setPontosUsuario] = useState([]);
 
-  console.log(pontosUsuario);
-
   useEffect(() => {
     fetch('http://localhost:3000/coletas', {
       method: 'GET',
