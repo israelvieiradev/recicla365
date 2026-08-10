@@ -31,13 +31,12 @@ Por se tratar de um projeto desenvolvido para fins de estudo, novas funcionalida
 
 ## Uso
 
-**Todos os dados necessários estarão disponíveis no console do navegador**
+*Todos os dados necessários estarão disponíveis no console do navegador*
 
 Exemplo:
 
-- Após o cadastro as credenciais de login estarão disponíveis
 
-<img src="./images/cadastro-usuario.png" alt="tela-cadastro" width="200">
+<img src="./images/cadastro-usuario.png" alt="tela-cadastro" width="600">
 
 ## Contribuidores
 
