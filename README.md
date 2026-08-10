@@ -1,7 +1,8 @@
 <p align="center">
   <img src="./images/logo-recicla365.png"
        alt="logo-recicla365"
-       width="300">
+       width="300"
+       height="200">
 </p>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
