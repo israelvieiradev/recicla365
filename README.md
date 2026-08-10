@@ -29,6 +29,16 @@ Por se tratar de um projeto desenvolvido para fins de estudo, novas funcionalida
 - Instale o gerenciador de pacotes: `npm install`
 - Inicialize a API: `npm run dev`
 
+## Uso
+
+**Todos os dados necessários estarão disponíveis no console do navegador**
+
+Exemplo:
+
+- Após o cadastro as credenciais de login estarão disponíveis
+
+<img src="./images/cadastro-usuario.png" alt="tela-cadastro" width="200">
+
 ## Contribuidores
 
 |                                                     |
