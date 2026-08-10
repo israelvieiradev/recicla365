@@ -1,10 +1,18 @@
-#Recicla365
+<p align="center">
+  <img src="./images/logo-recicla365.png"
+       alt="logo-recicla365"
+       width="400">
+</p>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+
 
 ## Sobre
 
 O Recicla365 é um projeto desenvolvido para fins educacionais, com o objetivo de desenvolver páginas web aplicando conceitos de Atomic Design utilizando HTML, CSS, JavaScript e React.
 
-A aplicação permite o mapeamento de pontos de coleta pelo país podendo cadastrar usuários, cadastrar e gerenciar pontos de coleta.
+A aplicação permite o mapeamento de pontos de coleta pelo país podendo cadastrar usuários e gerenciar os pontos de coleta.
 
 Por se tratar de um projeto desenvolvido para fins de estudo, novas funcionalidades, melhorias de segurança, validações e aprimoramentos de arquitetura podem ser incorporados futuramente.
 
