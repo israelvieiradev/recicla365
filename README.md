@@ -16,7 +16,7 @@
 
 ## Sobre
 
-O Recicla365 é um projeto desenvolvido para fins educacionais, com o objetivo de desenvolver páginas web aplicando conceitos de Atomic Design utilizando HTML, CSS, JavaScript e React.
+O Recicla365 é um projeto desenvolvido para fins educacionais, com o objetivo de desenvolver páginas web aplicando conceitos de Atomic Design utilizando HTML, CSS, JAVASCRIPT e REACT.
 
 A aplicação permite o mapeamento de pontos de coleta pelo país podendo cadastrar usuários e gerenciar os pontos de coleta.
 
