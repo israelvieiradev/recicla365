@@ -33,11 +33,22 @@ Por se tratar de um projeto desenvolvido para fins de estudo, novas funcionalida
 
 *Todos os dados necessários estarão disponíveis no console do navegador*
 
-- Exemplo cadastro
+- Após o cadastro o usuário é redirecionado para tela de login
 
 <img src="./images/cadastro-usuario.png" alt="cadastro-usuario" width="800">
 
-- 
+- Você pode registrar pontos de coleta existentes pelo país para o gerenciamento
+
+<img src="./images/cadastro-ponto.png" alt="cadastro-ponto" width="800">
+
+- Dashboard mostra os pontos cadastrados no mapa
+
+<img src="./images/dashboard.png" alt="tela-dashboard" width="800">
+
+- Locais mostra mais detalhes sobre cada ponto de coleta
+
+<img src="./images/detalhes-pontos.png" alt="tela-detalhes-pontos" width="800">
+
 
 ## Contribuidores
 
