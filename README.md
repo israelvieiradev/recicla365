@@ -8,12 +8,26 @@ A aplicação permite o mapeamento de pontos de coleta pelo país podendo cadast
 
 Por se tratar de um projeto desenvolvido para fins de estudo, novas funcionalidades, melhorias de segurança, validações e aprimoramentos de arquitetura podem ser incorporados futuramente.
 
-## Requisitos
+## Configurações
 
-- Clone o repositório: https://github.com/israelvieiradev/api-coletas.git <br>
-`git clone`
+### Ferramentas
+
+- VS Code: https://code.visualstudio.com
+- Node.js: https://nodejs.org/pt-br
+
+### Execução
+
+#### Back-end
+
+- Clone o repositório: `git clone https://github.com/israelvieiradev/api-coletas.git`
 - Instale o gerenciador de pacotes: `npm install`
 - Inicialize a API: `npm start`
+
+#### Front-end
+
+- Clone o repositório: `git clone https://github.com/israelvieiradev/recicla365.git`
+- Instale o gerenciador de pacotes: `npm install`
+- Inicialize a API: `npm run dev`
 
 ## Contribuidores
 
