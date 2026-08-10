@@ -8,7 +8,12 @@ A aplicação permite o mapeamento de pontos de coleta pelo país podendo cadast
 
 Por se tratar de um projeto desenvolvido para fins de estudo, novas funcionalidades, melhorias de segurança, validações e aprimoramentos de arquitetura podem ser incorporados futuramente.
 
+## Requisitos
 
+- Clone o repositório: https://github.com/israelvieiradev/api-coletas.git <br>
+`git clone`
+- Instale o gerenciador de pacotes: `npm install`
+- Inicialize a API: `npm start`
 
 ## Contribuidores
 
