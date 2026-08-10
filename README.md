@@ -33,10 +33,11 @@ Por se tratar de um projeto desenvolvido para fins de estudo, novas funcionalida
 
 *Todos os dados necessários estarão disponíveis no console do navegador*
 
-Exemplo:
+- Exemplo cadastro
 
+<img src="./images/cadastro-usuario.png" alt="cadastro-usuario" width="800">
 
-<img src="./images/cadastro-usuario.png" alt="tela-cadastro" width="600">
+- 
 
 ## Contribuidores
 
