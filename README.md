@@ -69,11 +69,11 @@ Por se tratar de um projeto desenvolvido para fins de estudo, novas funcionalida
 <table>
   <tr>
     <td align="center">
-      <img src="./images/logo-lab365.png" width="120"><br>
+      <img src="./images/logo-senai-lab365.jpg" width="120"><br>
       <a href="https://github.com/lab365-operacao">LAB365</a>
     </td>
     <td align="center">
-      <img src="./images/logo-douglas.png" width="120"><br>
+      <img src="./images/prof-douglas.jpg" width="120"><br>
       <a href="https://github.com/douglas-cavalcante">Prof. Douglas Cavalcante</a>
     </td>
   </tr>
