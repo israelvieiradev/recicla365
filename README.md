@@ -70,3 +70,7 @@ Por se tratar de um projeto desenvolvido para fins de estudo, novas funcionalida
 |-----------------------------------------------------|
 | <img src="./images/logo-senai-lab365.jpg" width="80">
 | [LAB365](https://github.com/lab365-operacao)        |
+|                                                     |
+|-----------------------------------------------------|
+| <img src="./images/prof-douglas.jpg" width="80">
+| [Prof. Douglas Cavalcante](https://github.com/douglas-cavalcante)        |
