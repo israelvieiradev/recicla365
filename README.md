@@ -12,7 +12,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-%234285F4.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 ## Sobre
 
@@ -29,6 +29,7 @@ Por se tratar de um projeto desenvolvido para fins de estudo, novas funcionalida
 - git 2.49.0: https://git-scm.com/install/windows
 - VS Code 1.132.0: https://code.visualstudio.com
 - Node.js 22.17.0: https://nodejs.org/pt-br
+- Google Chrome 151.0.7922.108: https://www.google.com/intl/pt-BR/chrome/
 
 ### Execução
 
