@@ -11,7 +11,7 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 ## Sobre
@@ -26,6 +26,7 @@ Por se tratar de um projeto desenvolvido para fins de estudo, novas funcionalida
 
 ### Ferramentas
 
+- git 2.49.0: https://git-scm.com/install/windows
 - VS Code 1.132.0: https://code.visualstudio.com
 - Node.js 22.17.0: https://nodejs.org/pt-br
 
