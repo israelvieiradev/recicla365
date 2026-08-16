@@ -43,7 +43,7 @@ Por se tratar de um projeto desenvolvido para fins de estudo, novas funcionalida
 
 - Clone o repositório: `git clone https://github.com/israelvieiradev/recicla365.git`
 - Instale o gerenciador de pacotes: `npm install`
-- Inicialize a API: `npm run dev`
+- Inicialize o servidor: `npm run dev`
 
 ## Uso
 
